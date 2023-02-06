@@ -1,0 +1,111 @@
+
+Nama Film: Knebworth 22'
+Tiket Dewasa | No. Kursi: 0 |  
+Tiket Anak | No. Kursi : 0 |  
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 11.00
+Total Bayar: 0
+
+Nama Film: Knebworth 22'
+Tiket Dewasa | No. Kursi: 1 |  
+Tiket Anak | No. Kursi : 0 |  
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 15.00
+Total Bayar: Rp 40800
+
+Nama Film: Knebworth 22'
+Tiket Dewasa | No. Kursi: 2 |  
+Tiket Anak | No. Kursi : 0 |  
+Tanggal dan Waktu: Senin, 30 Januari 2023 | 21.00
+Total Bayar: Rp 81600
+
+Nama Film: Knebworth 22'
+Tiket Dewasa | No. Kursi: 2 |  
+Tiket Anak | No. Kursi : 0 |  
+Tanggal dan Waktu: Senin, 30 Januari 2023 | 21.00
+Total Bayar: Rp 81600
+
+Nama Film: 500 Days of Summer
+Tiket Dewasa | No. Kursi: 3 |  
+Tiket Anak | No. Kursi : 2 |  
+Tanggal dan Waktu: Kamis, 26 Januari 2023 | 19.00
+Total Bayar: Rp 153000
+
+Nama Film: Knebworth 22'
+Tiket Dewasa | No. Kursi: 2 |  
+Tiket Anak | No. Kursi : 0 |  
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 11.00
+Total Bayar: Rp 81600
+
+Nama Film: Avenger
+Tiket Dewasa | No. Kursi: 2 |  
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 11.00
+Total Bayar: Rp 0
+
+Nama Film: Fifty Shades of Grey
+Tiket Dewasa | No. Kursi: 7 |  
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 19.00
+Total Bayar: Rp 285600
+
+Nama Film: Fifty Shades of Grey
+Tiket Dewasa | No. Kursi: 7 |  
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 19.00
+Total Bayar: Rp 285600
+
+Nama Film: Fifty Shades of Grey
+Tiket Dewasa | No. Kursi: 7 |  
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 19.00
+Total Bayar: Rp 285600
+
+Nama Film: Fifty Shades of Grey
+Tiket Dewasa | No. Kursi: 7 |  
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 19.00
+Total Bayar: Rp 285600
+
+Nama Film: Oasis : Knebworth 1996
+Tiket Dewasa | No. Kursi: 1 |  
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 21.00
+Total Bayar: Rp 40800
+
+Nama Film: Avenger
+Tiket Dewasa | No. Kursi: 2 | A 1
+Tanggal dan Waktu: Rabu, 25 Januari 2023 | 11.00
+Total Bayar: Rp 81600
+
+Nama Film: Fifty Shades of Grey
+Tiket Dewasa | No. Kursi: 2 | A 4
+Tanggal dan Waktu: Sabtu, 28 Januari 2023 | 21.00
+Total Bayar: Rp 81600
+
+Nama Film: Fifty Shades of Grey
+Tiket Dewasa | No. Kursi: 2 | A 6
+Tanggal dan Waktu: Minggu, 29 Januari 2023 | 21.00
+Total Bayar: Rp 81600
+
+Nama Film: 500 Days of Summer
+Tiket Dewasa | No. Kursi: 6 | A 6
+Tanggal dan Waktu: Jumat, 27 Januari 2023 | 21.00
+Total Bayar: Rp 244800
+
+Nama Film: 500 Days of Summer
+Tiket Dewasa | No. Kursi: 4 | A 4
+Tanggal dan Waktu: Jumat, 27 Januari 2023 | 21.00
+Total Bayar: Rp 163200
+
+Nama Film: Avenger
+Tiket Dewasa | No. Kursi: 2 | D 5
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 11.00
+Total Bayar: Rp 81600
+
+Nama Film: Avenger
+Tiket Dewasa | No. Kursi: 4 | A 1
+Tanggal dan Waktu: Jumat, 27 Januari 2023 | 11.00
+Total Bayar: Rp 163200
+
+Nama Film: Avenger
+Tiket Dewasa | No. Kursi: 2 | A1
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 11.00
+Total Bayar: Rp 81600
+
+Nama Film: Avenger
+Tiket Dewasa | No. Kursi: 2 | A1
+Tanggal dan Waktu: Senin, 23 Januari 2023 | 11.00
+Total Bayar: Rp 81600
